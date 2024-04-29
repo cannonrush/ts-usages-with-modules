@@ -1,4 +1,4 @@
-rootProject.name = "typescript-no-usages"
+rootProject.name = "ts-usages-with-modules"
 
 // Comment out these statements and "usages" will work again
 include(":app")
